@@ -1,2 +1,0 @@
-# NetPractice
-La reseautique
